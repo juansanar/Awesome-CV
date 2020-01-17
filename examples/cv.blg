@@ -1,0 +1,32 @@
+[0] Config.pm:304> INFO - This is Biber 2.13
+[0] Config.pm:307> INFO - Logfile is 'cv.blg'
+[27] biber:315> INFO - === Thu Jan 16, 2020, 23:52:16
+[43] Biber.pm:375> INFO - Reading 'cv.bcf'
+[129] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[129] Biber.pm:905> INFO - Found 10 citekeys in bib section 1
+[129] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[130] Biber.pm:905> INFO - Found 10 citekeys in bib section 2
+[130] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[156] Biber.pm:4196> INFO - Processing section 1
+[157] Utils.pm:75> INFO - Globbing data source 'cv/references.bib'
+[157] Utils.pm:91> INFO - Globbed data source 'cv/references.bib' to cv/references.bib
+[174] Biber.pm:4373> INFO - Looking for bibtex format file 'cv/references.bib' for section 1
+[179] bibtex.pm:1462> INFO - LaTeX decoding ...
+[252] bibtex.pm:1281> INFO - Found BibTeX data source 'cv/references.bib'
+[385] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[385] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[385] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[385] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[405] Biber.pm:4196> INFO - Processing section 2
+[406] Utils.pm:75> INFO - Globbing data source 'cv/references.bib'
+[406] Utils.pm:91> INFO - Globbed data source 'cv/references.bib' to cv/references.bib
+[406] Biber.pm:4373> INFO - Looking for bibtex format file 'cv/references.bib' for section 2
+[423] Utils.pm:300> WARN - Name in key 'can2015' is empty (probably consecutive 'and'): skipping entry 'can2015'
+[513] Utils.pm:300> WARN - BibTeX subsystem: substring 7, warning: empty substring
+[541] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[541] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[541] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[541] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[565] bbl.pm:648> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[599] bbl.pm:751> INFO - Output to cv.bbl
+[599] Biber.pm:110> INFO - WARNINGS: 2
