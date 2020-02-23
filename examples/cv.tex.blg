@@ -1,5 +1,0 @@
-[0] Config.pm:304> INFO - This is Biber 2.13
-[0] Config.pm:307> INFO - Logfile is 'cv.tex.blg'
-[29] biber:315> INFO - === Fri Jan 17, 2020, 21:09:07
-[140] Utils.pm:316> ERROR - Cannot find 'cv.tex.bcf'!
-[141] Biber.pm:114> INFO - ERRORS: 1
