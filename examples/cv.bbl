@@ -27,23 +27,23 @@
         {{hash=ed9318f080aaa074405e4bff853ded65}{%
            family={Candlish},
            familyi={C\bibinitperiod},
-           given={Rebecca\bibnamedelima C},
+           given={Rebecca\bibnamedelima C.},
            giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-        {{hash=fd4f60d7b3888cf99996f55ba36be1c8}{%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
            family={Swayne},
            familyi={S\bibinitperiod},
-           given={Leigh\bibnamedelima A},
+           given={Leigh\bibnamedelima Anne},
            giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Cold Spring Harbor Laboratory}%
       }
-      \strng{namehash}{55d7140e74e811878386ecd6debcb337}
-      \strng{fullhash}{55d7140e74e811878386ecd6debcb337}
-      \strng{bibnamehash}{55d7140e74e811878386ecd6debcb337}
-      \strng{authorbibnamehash}{55d7140e74e811878386ecd6debcb337}
-      \strng{authornamehash}{55d7140e74e811878386ecd6debcb337}
-      \strng{authorfullhash}{55d7140e74e811878386ecd6debcb337}
+      \strng{namehash}{89636e4da9942170ff34861339e697e3}
+      \strng{fullhash}{89636e4da9942170ff34861339e697e3}
+      \strng{bibnamehash}{89636e4da9942170ff34861339e697e3}
+      \strng{authorbibnamehash}{89636e4da9942170ff34861339e697e3}
+      \strng{authornamehash}{89636e4da9942170ff34861339e697e3}
+      \strng{authorfullhash}{89636e4da9942170ff34861339e697e3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
@@ -609,10 +609,10 @@
         {{hash=96425cfb6de1e47d0818b519843482e6}{%
            family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
            familyi={S\bibinithyphendelim A\bibinitperiod}}}%
-        {{hash=f779f9ce25b826732e2163faccb2bd94}{%
-           family={Agbay},
+        {{hash=8fd43c7464cb5d206fcb27a14dba68dc}{%
+           family={Andrew},
            familyi={A\bibinitperiod},
-           given={Andrew},
+           given={Agbay},
            giveni={A\bibinitperiod}}}%
         {{hash=7ac088f5a2f1fa477b2b2c05ba1df510}{%
            family={Willerth},
@@ -624,11 +624,11 @@
         {Frontiers}%
       }
       \strng{namehash}{f4826ae482b5e8232eeb88886b808a03}
-      \strng{fullhash}{5974361d088ee9605121024b7364f59f}
-      \strng{bibnamehash}{5974361d088ee9605121024b7364f59f}
-      \strng{authorbibnamehash}{5974361d088ee9605121024b7364f59f}
+      \strng{fullhash}{fde95326da1ed699280ab1e3d324cfa3}
+      \strng{bibnamehash}{fde95326da1ed699280ab1e3d324cfa3}
+      \strng{authorbibnamehash}{fde95326da1ed699280ab1e3d324cfa3}
       \strng{authornamehash}{f4826ae482b5e8232eeb88886b808a03}
-      \strng{authorfullhash}{5974361d088ee9605121024b7364f59f}
+      \strng{authorfullhash}{fde95326da1ed699280ab1e3d324cfa3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
