@@ -19,6 +19,56 @@
 
 \refsection{1}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{sanchez-arias2020}{article}{}
+      \name{author}{3}{}{%
+        {{hash=a869627c6eb05807a814a8e208cb8ac9}{%
+           family={Sanchez-Arias},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Juan\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ed9318f080aaa074405e4bff853ded65}{%
+           family={Candlish},
+           familyi={C\bibinitperiod},
+           given={Rebecca\bibnamedelima C},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=fd4f60d7b3888cf99996f55ba36be1c8}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima A},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{a32cb907a62e70740df67750381ae28c}
+      \strng{fullhash}{a32cb907a62e70740df67750381ae28c}
+      \strng{bibnamehash}{a32cb907a62e70740df67750381ae28c}
+      \strng{authorbibnamehash}{a32cb907a62e70740df67750381ae28c}
+      \strng{authornamehash}{a32cb907a62e70740df67750381ae28c}
+      \strng{authorfullhash}{a32cb907a62e70740df67750381ae28c}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{journaltitle}{bioRxiv}
+      \field{month}{3}
+      \field{title}{Pannexin 1 regulates spiny protrusion dynamics in cortical neurons}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{973917}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1101/2020.03.02.973917
+      \endverb
+      \verb{urlraw}
+      \verb https://www.biorxiv.org/content/10.1101/2020.03.02.973917v2
+      \endverb
+      \verb{url}
+      \verb https://www.biorxiv.org/content/10.1101/2020.03.02.973917v2
+      \endverb
+    \endentry
     \entry{chen2019}{article}{}
       \name{author}{5}{}{%
         {{hash=02e199dcaf2011a88fb99fa83076ac70}{%
@@ -240,6 +290,9 @@
            familyi={S\bibinitperiod},
            given={Leigh\bibnamedelima Anne},
            giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
       }
       \strng{namehash}{bb6b8609ce850b72229cf61d491c90a9}
       \strng{fullhash}{4f343cd0dcf6d8eda2f872ea80864ce4}
