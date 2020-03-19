@@ -1,32 +1,32 @@
 [0] Config.pm:304> INFO - This is Biber 2.13
 [0] Config.pm:307> INFO - Logfile is 'cv.blg'
-[27] biber:315> INFO - === Wed Mar 18, 2020, 20:30:15
-[41] Biber.pm:375> INFO - Reading 'cv.bcf'
-[113] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[113] Biber.pm:905> INFO - Found 11 citekeys in bib section 1
-[113] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[114] Biber.pm:905> INFO - Found 10 citekeys in bib section 2
-[114] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
-[138] Biber.pm:4196> INFO - Processing section 1
-[139] Utils.pm:75> INFO - Globbing data source 'cv/references.bib'
-[139] Utils.pm:91> INFO - Globbed data source 'cv/references.bib' to cv/references.bib
-[149] Biber.pm:4373> INFO - Looking for bibtex format file 'cv/references.bib' for section 1
-[153] bibtex.pm:1462> INFO - LaTeX decoding ...
-[211] bibtex.pm:1281> INFO - Found BibTeX data source 'cv/references.bib'
-[339] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[339] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[340] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[340] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[362] Biber.pm:4196> INFO - Processing section 2
-[362] Utils.pm:75> INFO - Globbing data source 'cv/references.bib'
-[362] Utils.pm:91> INFO - Globbed data source 'cv/references.bib' to cv/references.bib
-[362] Biber.pm:4373> INFO - Looking for bibtex format file 'cv/references.bib' for section 2
-[377] Utils.pm:300> WARN - Name in key 'can2015' is empty (probably consecutive 'and'): skipping entry 'can2015'
-[456] Utils.pm:300> WARN - BibTeX subsystem: substring 7, warning: empty substring
-[477] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[477] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[477] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
-[477] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
-[492] bbl.pm:648> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
-[524] bbl.pm:751> INFO - Output to cv.bbl
-[525] Biber.pm:110> INFO - WARNINGS: 2
+[35] biber:315> INFO - === Wed Mar 18, 2020, 20:39:38
+[49] Biber.pm:375> INFO - Reading 'cv.bcf'
+[119] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[120] Biber.pm:905> INFO - Found 11 citekeys in bib section 1
+[120] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[120] Biber.pm:905> INFO - Found 10 citekeys in bib section 2
+[120] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[146] Biber.pm:4196> INFO - Processing section 1
+[147] Utils.pm:75> INFO - Globbing data source 'cv/references.bib'
+[147] Utils.pm:91> INFO - Globbed data source 'cv/references.bib' to cv/references.bib
+[161] Biber.pm:4373> INFO - Looking for bibtex format file 'cv/references.bib' for section 1
+[165] bibtex.pm:1462> INFO - LaTeX decoding ...
+[220] bibtex.pm:1281> INFO - Found BibTeX data source 'cv/references.bib'
+[356] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[356] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[356] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[357] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[380] Biber.pm:4196> INFO - Processing section 2
+[380] Utils.pm:75> INFO - Globbing data source 'cv/references.bib'
+[381] Utils.pm:91> INFO - Globbed data source 'cv/references.bib' to cv/references.bib
+[381] Biber.pm:4373> INFO - Looking for bibtex format file 'cv/references.bib' for section 2
+[393] Utils.pm:300> WARN - Name in key 'can2015' is empty (probably consecutive 'and'): skipping entry 'can2015'
+[472] Utils.pm:300> WARN - BibTeX subsystem: substring 7, warning: empty substring
+[492] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[492] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[492] Biber.pm:4024> INFO - Sorting list 'ydnt/global//global/global' of type 'entry' with template 'ydnt' and locale 'en-US'
+[492] Biber.pm:4030> INFO - No sort tailoring available for locale 'en-US'
+[504] bbl.pm:648> INFO - Writing 'cv.bbl' with encoding 'UTF-8'
+[537] bbl.pm:751> INFO - Output to cv.bbl
+[537] Biber.pm:110> INFO - WARNINGS: 2

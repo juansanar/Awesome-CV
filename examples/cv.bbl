@@ -21,11 +21,9 @@
   \datalist[entry]{ydnt/global//global/global}
     \entry{sanchez-arias2020}{article}{}
       \name{author}{3}{}{%
-        {{hash=a869627c6eb05807a814a8e208cb8ac9}{%
-           family={Sanchez-Arias},
-           familyi={S\bibinithyphendelim A\bibinitperiod},
-           given={Juan\bibnamedelima C},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={S\bibinithyphendelim A\bibinitperiod}}}%
         {{hash=ed9318f080aaa074405e4bff853ded65}{%
            family={Candlish},
            familyi={C\bibinitperiod},
@@ -40,12 +38,12 @@
       \list{publisher}{1}{%
         {Cold Spring Harbor Laboratory}%
       }
-      \strng{namehash}{a32cb907a62e70740df67750381ae28c}
-      \strng{fullhash}{a32cb907a62e70740df67750381ae28c}
-      \strng{bibnamehash}{a32cb907a62e70740df67750381ae28c}
-      \strng{authorbibnamehash}{a32cb907a62e70740df67750381ae28c}
-      \strng{authornamehash}{a32cb907a62e70740df67750381ae28c}
-      \strng{authorfullhash}{a32cb907a62e70740df67750381ae28c}
+      \strng{namehash}{55d7140e74e811878386ecd6debcb337}
+      \strng{fullhash}{55d7140e74e811878386ecd6debcb337}
+      \strng{bibnamehash}{55d7140e74e811878386ecd6debcb337}
+      \strng{authorbibnamehash}{55d7140e74e811878386ecd6debcb337}
+      \strng{authornamehash}{55d7140e74e811878386ecd6debcb337}
+      \strng{authorfullhash}{55d7140e74e811878386ecd6debcb337}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
