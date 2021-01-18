@@ -1,0 +1,1510 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{1}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{boyce2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=a4cb4edbffe29354846f8da7fcbd48bc}{%
+           family={Boyce},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelimb K.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d9586a01b8dfdca95737db0063a0ce64}{%
+           family={Slagt},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=a869627c6eb05807a814a8e208cb8ac9}{%
+           family={{Sanchez-Arias}},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{8a1120f96f1ed77464a1586d3cde6ba1}
+      \strng{fullhash}{ea3e1c2155bdd1824712dc5b032641bb}
+      \strng{bibnamehash}{ea3e1c2155bdd1824712dc5b032641bb}
+      \strng{authorbibnamehash}{ea3e1c2155bdd1824712dc5b032641bb}
+      \strng{authornamehash}{8a1120f96f1ed77464a1586d3cde6ba1}
+      \strng{authorfullhash}{ea3e1c2155bdd1824712dc5b032641bb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{New Results}
+      \field{day}{8}
+      \field{journaltitle}{bioRxiv}
+      \field{month}{12}
+      \field{title}{{{ATP}} Triggers Macropinocytosis That Internalizes and Is Regulated by {{PANX1}}}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{2020.11.19.389072}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1101/2020.11.19.389072
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1101/2020.11.19.389072
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1101/2020.11.19.389072
+      \endverb
+    \endentry
+    \entry{sanchez-arias2020a}{article}{}
+      \name{author}{4}{}{%
+        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
+           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
+           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ed9318f080aaa074405e4bff853ded65}{%
+           family={Candlish},
+           familyi={C\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d9586a01b8dfdca95737db0063a0ce64}{%
+           family={Slagt},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Society for Neuroscience}%
+      }
+      \strng{namehash}{478e55a7da197a9e880c466f2c80a3f5}
+      \strng{fullhash}{865ac8a0ff31f6b07071252fbb656028}
+      \strng{bibnamehash}{865ac8a0ff31f6b07071252fbb656028}
+      \strng{authorbibnamehash}{865ac8a0ff31f6b07071252fbb656028}
+      \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
+      \strng{authorfullhash}{865ac8a0ff31f6b07071252fbb656028}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{31}
+      \field{journaltitle}{eNeuro}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Pannexin 1 Regulates Dendritic Protrusion Dynamics in Immature Cortical Neurons}
+      \field{volume}{7}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1523/ENEURO.0079-20.2020
+      \endverb
+      \verb{eprint}
+      \verb https://www.eneuro.org/content/7/4/ENEURO.0079-20.2020.full.pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.eneuro.org/content/7/4/ENEURO.0079-20.2020
+      \endverb
+      \verb{url}
+      \verb https://www.eneuro.org/content/7/4/ENEURO.0079-20.2020
+      \endverb
+    \endentry
+    \entry{sanchez-arias2020b}{article}{}
+      \name{author}{8}{}{%
+        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
+           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
+           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7f03f47e31527987a71c6005188eef16}{%
+           family={Wicki-Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=ed9318f080aaa074405e4bff853ded65}{%
+           family={Candlish},
+           familyi={C\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d9586a01b8dfdca95737db0063a0ce64}{%
+           family={Slagt},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=1cb4685c8569cb9016424ccfb3434016}{%
+           family={Paci},
+           familyi={P\bibinitperiod},
+           given={Irina},
+           giveni={I\bibinitperiod}}}%
+        {{hash=2004925dda34416adbb56f4dded23064}{%
+           family={Rao},
+           familyi={R\bibinitperiod},
+           given={Praveen\bibnamedelimb P.\bibnamedelimi N.},
+           giveni={P\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=c01ca4c4509d0f89475fc4913a9dac6e}{%
+           family={MacVicar},
+           familyi={M\bibinitperiod},
+           given={Brian\bibnamedelima A.},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{478e55a7da197a9e880c466f2c80a3f5}
+      \strng{fullhash}{bda3213a6c6fd2ecdb89c64ded934815}
+      \strng{bibnamehash}{bda3213a6c6fd2ecdb89c64ded934815}
+      \strng{authorbibnamehash}{bda3213a6c6fd2ecdb89c64ded934815}
+      \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
+      \strng{authorfullhash}{bda3213a6c6fd2ecdb89c64ded934815}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{13}
+      \field{issn}{0143-4160}
+      \field{journaltitle}{Cell Calcium}
+      \field{month}{7}
+      \field{shorttitle}{{{PANX1}} in Inflammation Heats Up}
+      \field{title}{PANX1 in Inflammation Heats up: New Mechanistic Insights with Implications for Injury and Infection}
+      \field{volume}{90}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{102253}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.ceca.2020.102253
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.ceca.2020.102253
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.ceca.2020.102253
+      \endverb
+      \keyw{cytokines,endothelial cells,IL-1beta,inflammation,intracellular calcium,NF-kB,pannexin 1,TNF-alpha,transcription}
+    \endentry
+    \entry{swayne2020}{article}{}
+      \name{author}{11}{}{%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ec59efae57b56d72d28a18b63400d7de}{%
+           family={Johnstone},
+           familyi={J\bibinitperiod},
+           given={Scott\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=382999d2ed2860e0599a5ea64c351bf8}{%
+           family={Ng},
+           familyi={N\bibinitperiod},
+           given={Chen\bibnamedelima Seng},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
+           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
+           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=7d490b2d07c53aca7d3f82f3289534e7}{%
+           family={Good},
+           familyi={G\bibinitperiod},
+           given={Miranda\bibnamedelima E.},
+           giveni={M\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=94727581e348b6a22ba122ab00468de6}{%
+           family={Penuela},
+           familyi={P\bibinitperiod},
+           given={Silvia},
+           giveni={S\bibinitperiod}}}%
+        {{hash=690dd18913f8cc6fd564e2821295a207}{%
+           family={Lohman},
+           familyi={L\bibinitperiod},
+           given={Alexander\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=fdd1f42ca7f4290461e5cbe3eb492467}{%
+           family={Wolpe},
+           familyi={W\bibinitperiod},
+           given={Abigail\bibnamedelima G.},
+           giveni={A\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=ace894cd3412b92846b9c1758d5a4fa7}{%
+           family={Laubach},
+           familyi={L\bibinitperiod},
+           given={Victor\bibnamedelima E.},
+           giveni={V\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e46af403d5d3657b2e36cce8caa76b63}{%
+           family={Koval},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=52a3a5dfad2d17764d47258abdc09151}{%
+           family={Isakson},
+           familyi={I\bibinitperiod},
+           given={Brant\bibnamedelima E.},
+           giveni={B\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physiological Society}%
+      }
+      \strng{namehash}{f4826ae482b5e8232eeb88886b808a03}
+      \strng{fullhash}{377b0012d0e7ff69d99438cdd7a29400}
+      \strng{bibnamehash}{377b0012d0e7ff69d99438cdd7a29400}
+      \strng{authorbibnamehash}{377b0012d0e7ff69d99438cdd7a29400}
+      \strng{authornamehash}{f4826ae482b5e8232eeb88886b808a03}
+      \strng{authorfullhash}{377b0012d0e7ff69d99438cdd7a29400}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{30}
+      \field{issn}{1040-0605}
+      \field{journaltitle}{American Journal of Physiology-Lung Cellular and Molecular Physiology}
+      \field{month}{6}
+      \field{number}{1}
+      \field{title}{Consideration of Pannexin 1 Channels in COVID-19 Pathology and Treatment}
+      \field{volume}{319}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{L121\bibrangedash L125}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1152/ajplung.00146.2020
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1152/ajplung.00146.2020
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1152/ajplung.00146.2020
+      \endverb
+    \endentry
+    \entry{chen2019}{article}{}
+      \name{author}{5}{}{%
+        {{hash=02e199dcaf2011a88fb99fa83076ac70}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Lena},
+           giveni={L\bibinitperiod}}}%
+        {{hash=a810d67db8ff69fa4b18b64ecee819fe}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Catherine\bibnamedelimb S.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=dbd11402b04ee9b81ccfb502ec244913}{%
+           family={Arbour},
+           familyi={A\bibinitperiod},
+           given={Laura\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1f450a4e501afb4568570df70e47e96c}
+      \strng{fullhash}{ec6bd64b597ccb20f96ea2027cfca8a9}
+      \strng{bibnamehash}{ec6bd64b597ccb20f96ea2027cfca8a9}
+      \strng{authorbibnamehash}{ec6bd64b597ccb20f96ea2027cfca8a9}
+      \strng{authornamehash}{1f450a4e501afb4568570df70e47e96c}
+      \strng{authorfullhash}{ec6bd64b597ccb20f96ea2027cfca8a9}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biochemistry and Cell Biology}
+      \field{langid}{english}
+      \field{month}{12}
+      \field{title}{Ankyrin-B p.S646F undergoes increased proteasome degradation and reduces cell viability in the H9c2 rat ventricular cardiomyoblast cell line}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.1139/bcb-2019-0082
+      \endverb
+      \verb{urlraw}
+      \verb https://dspace.library.uvic.ca//handle/1828/11325
+      \endverb
+      \verb{url}
+      \verb https://dspace.library.uvic.ca//handle/1828/11325
+      \endverb
+    \endentry
+    \entry{choi2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a810d67db8ff69fa4b18b64ecee819fe}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Catherine\bibnamedelimb S.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=5bd0a86e087acc40df8c4e5e22609905}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Ivana\bibnamedelima A.},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=cd3eae34b9ea38d3d3acb9df15262382}{%
+           family={Zamponi},
+           familyi={Z\bibinitperiod},
+           given={Gerald\bibnamedelima W.},
+           giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=dbd11402b04ee9b81ccfb502ec244913}{%
+           family={Arbour},
+           familyi={A\bibinitperiod},
+           given={Laura\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c81cdec59f717ef86caa7460025a7c4b}
+      \strng{fullhash}{aba4eba7970c63487062aa685fd5083d}
+      \strng{bibnamehash}{aba4eba7970c63487062aa685fd5083d}
+      \strng{authorbibnamehash}{aba4eba7970c63487062aa685fd5083d}
+      \strng{authornamehash}{c81cdec59f717ef86caa7460025a7c4b}
+      \strng{authorfullhash}{aba4eba7970c63487062aa685fd5083d}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{2}
+      \field{issn}{1756-6606}
+      \field{journaltitle}{Molecular Brain}
+      \field{month}{9}
+      \field{number}{1}
+      \field{shortjournal}{Molecular Brain}
+      \field{title}{Ankyrin B and Ankyrin B variants differentially modulate intracellular and surface Cav2.1 levels}
+      \field{urlday}{11}
+      \field{urlmonth}{9}
+      \field{urlyear}{2019}
+      \field{volume}{12}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{75}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1186/s13041-019-0494-8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1186/s13041-019-0494-8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1186/s13041-019-0494-8
+      \endverb
+    \endentry
+    \entry{epp2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=5b51a02e3139125de5ba99f4936fb1dd}{%
+           family={Epp},
+           familyi={E\bibinitperiod},
+           given={Anna\bibnamedelima L.},
+           giveni={A\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=882be1d5cb16cacd3146c23a98c8942b}{%
+           family={Ebert},
+           familyi={E\bibinitperiod},
+           given={Sarah\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=7f03f47e31527987a71c6005188eef16}{%
+           family={Wicki-Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=a4cb4edbffe29354846f8da7fcbd48bc}{%
+           family={Boyce},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelimb K.\bibnamedelimi J.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b4b0f91091ca2e814751b6a25622eff}
+      \strng{fullhash}{e5b20d123c35f8630fca1d66fee8063c}
+      \strng{bibnamehash}{e5b20d123c35f8630fca1d66fee8063c}
+      \strng{authorbibnamehash}{e5b20d123c35f8630fca1d66fee8063c}
+      \strng{authornamehash}{7b4b0f91091ca2e814751b6a25622eff}
+      \strng{authorfullhash}{e5b20d123c35f8630fca1d66fee8063c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{5}
+      \field{issn}{2045-2322}
+      \field{journaltitle}{Scientific Reports}
+      \field{month}{7}
+      \field{number}{1}
+      \field{title}{A novel motif in the proximal C-terminus of Pannexin 1 regulates cell surface localization}
+      \field{urlday}{5}
+      \field{urlmonth}{7}
+      \field{urlyear}{2019}
+      \field{volume}{9}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{9721}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-019-46144-5
+      \endverb
+      \verb{urlraw}
+      \verb https://www.nature.com/articles/s41598-019-46144-5
+      \endverb
+      \verb{url}
+      \verb https://www.nature.com/articles/s41598-019-46144-5
+      \endverb
+    \endentry
+    \entry{frederiksen2019}{article}{}
+      \name{author}{4}{}{%
+        {{hash=28b760c6c89a4e1d267a57d8743399dc}{%
+           family={Frederiksen},
+           familyi={F\bibinitperiod},
+           given={Simona\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=7f03f47e31527987a71c6005188eef16}{%
+           family={Wicki-Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cold Spring Harbor Laboratory}%
+      }
+      \strng{namehash}{bb6b8609ce850b72229cf61d491c90a9}
+      \strng{fullhash}{4f343cd0dcf6d8eda2f872ea80864ce4}
+      \strng{bibnamehash}{4f343cd0dcf6d8eda2f872ea80864ce4}
+      \strng{authorbibnamehash}{4f343cd0dcf6d8eda2f872ea80864ce4}
+      \strng{authornamehash}{bb6b8609ce850b72229cf61d491c90a9}
+      \strng{authorfullhash}{4f343cd0dcf6d8eda2f872ea80864ce4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{11}
+      \field{journaltitle}{{bioRxiv}}
+      \field{langid}{english}
+      \field{month}{10}
+      \field{shorttitle}{Exploring the Pannexin 1 interactome}
+      \field{title}{Exploring the Pannexin 1 interactome: In silico cross-analyses with postsynaptic proteins and neuropsychiatric disorder susceptibility genes}
+      \field{urlday}{13}
+      \field{urlmonth}{1}
+      \field{urlyear}{2020}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{801563}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1101/801563
+      \endverb
+      \verb{urlraw}
+      \verb https://www.biorxiv.org/content/10.1101/801563v1
+      \endverb
+      \verb{url}
+      \verb https://www.biorxiv.org/content/10.1101/801563v1
+      \endverb
+    \endentry
+    \entry{sanchez-arias2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=cb5897ebeed486d1b3475ac0620918e2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a810d67db8ff69fa4b18b64ecee819fe}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Catherine\bibnamedelimb S.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=882be1d5cb16cacd3146c23a98c8942b}{%
+           family={Ebert},
+           familyi={E\bibinitperiod},
+           given={Sarah\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=7e72e279fa6d2af423eff89021abe53a}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Craig\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{f6bb387f732e7bef22156f97d0c44ab0}
+      \strng{bibnamehash}{f6bb387f732e7bef22156f97d0c44ab0}
+      \strng{authorbibnamehash}{f6bb387f732e7bef22156f97d0c44ab0}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{f6bb387f732e7bef22156f97d0c44ab0}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{issn}{2373-2822}
+      \field{journaltitle}{eNeuro}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{3}
+      \field{title}{Pannexin 1 Regulates Network Ensembles and Dendritic Spine Development in Cortical Neurons}
+      \field{urlday}{8}
+      \field{urlmonth}{6}
+      \field{urlyear}{2019}
+      \field{volume}{6}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{ENEURO.0503\bibrangedash 18.2019}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1523/ENEURO.0503-18.2019
+      \endverb
+      \verb{urlraw}
+      \verb http://eneuro.org/lookup/doi/10.1523/ENEURO.0503-18.2019
+      \endverb
+      \verb{url}
+      \verb http://eneuro.org/lookup/doi/10.1523/ENEURO.0503-18.2019
+      \endverb
+    \endentry
+    \entry{xu2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d3f042b221f493a1b96399eb4f71e4a9}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Xiaoxue},
+           giveni={X\bibinitperiod}}}%
+        {{hash=7f03f47e31527987a71c6005188eef16}{%
+           family={Wicki-Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=cb5897ebeed486d1b3475ac0620918e2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=070c5bd0289e92ddf0f0334c6d20e1bc}{%
+           family={Weaver},
+           familyi={W\bibinitperiod},
+           given={Maria\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=a810d67db8ff69fa4b18b64ecee819fe}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Catherine\bibnamedelimb S.\bibnamedelimi W.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=fd4f60d7b3888cf99996f55ba36be1c8}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{f7faaa3b496a0ac1515b3cada5387cdb}
+      \strng{fullhash}{791fdcb5d0036d69a1a3b28258232f5a}
+      \strng{bibnamehash}{791fdcb5d0036d69a1a3b28258232f5a}
+      \strng{authorbibnamehash}{791fdcb5d0036d69a1a3b28258232f5a}
+      \strng{authornamehash}{f7faaa3b496a0ac1515b3cada5387cdb}
+      \strng{authorfullhash}{791fdcb5d0036d69a1a3b28258232f5a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{11}
+      \field{issn}{1662-5102}
+      \field{journaltitle}{Frontiers in Cellular Neuroscience}
+      \field{month}{5}
+      \field{shortjournal}{Front. Cell. Neurosci.}
+      \field{title}{Probenecid Disrupts a Novel Pannexin 1-Collapsin Response Mediator Protein 2 Interaction and Increases Microtubule Stability}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{12}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{doi}
+      \verb 10.3389/fncel.2018.00124
+      \endverb
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/fncel.2018.00124/full
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/fncel.2018.00124/full
+      \endverb
+      \keyw{{CRMP}2,neurodevelopment,Cytoskeleton,Microtubules,neurite,neuronal polarity,Pannexin 1,Probenecid}
+    \endentry
+    \entry{gunton2017}{article}{}
+      \name{author}{5}{}{%
+        {{hash=695e1c49e83bfe78ea6d6f50ce69a283}{%
+           family={Gunton},
+           familyi={G\bibinitperiod},
+           given={Adrianna\bibnamedelima N.},
+           giveni={A\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=b95d71c48497e52052625fa6b1756c41}{%
+           family={\textbf{Sanchez‐Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
+           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=36b9788d34136d5537c6e1802da944c8}{%
+           family={Carmona‐Wagner},
+           familyi={C\bibinithyphendelim W\bibinitperiod},
+           given={Esther\bibnamedelima O.},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=12b0eb42087b848d511fff435d3f3d18}{%
+           family={Wicki‐Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ca851a36569336fce8c57ffc457aea15}
+      \strng{fullhash}{032e232cdac1b107e27abc6fc6c4e1ba}
+      \strng{bibnamehash}{032e232cdac1b107e27abc6fc6c4e1ba}
+      \strng{authorbibnamehash}{032e232cdac1b107e27abc6fc6c4e1ba}
+      \strng{authornamehash}{ca851a36569336fce8c57ffc457aea15}
+      \strng{authorfullhash}{032e232cdac1b107e27abc6fc6c4e1ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Purpose After cortical stroke, neural precursor cells ({NPCs}) in the distal ventricular zone ({VZ}) proliferate more rapidly and migrate toward the injured cortex. While evidence suggests this can enhance stroke recovery, the underlying molecular mechanisms initiating the response are poorly understood. Here we identified changes in protein expression in the ipsilateral {VZ} early (4 h) after stroke to gain insight into the initial mechanisms involved in {NPC} activation post-stroke. Experimental design Four hours after photothrombotic stroke (or sham surgery control) in the sensorimotor cortex, adult mice (10 stroke, 10 sham) were subjected to cardiac perfusion with {PBS}, and ipsilateral and contralateral {VZ} tissue was microdissected. Two separate sets of ipsilateral and contralateral {VZ} tissues (from 5 pooled surgery or 5 pooled sham mice) were analyzed simultaneously using 8-plex {iTRAQ}. We used Western blotting and confocal microscopy to confirm changes in protein expression in the {VZ} ipsilateral to stroke in a separate cohort of mice. Results We identified nine proteins which exhibited a significant mean increase (by ≥ 2-fold) in stroke ipsilateral compared to sham ipsilateral. Many of these proteins were antiproteases or cytokine/growth factor binding proteins that are known to act as inflammatory responders or effectors and play roles in modulating tissue growth and remodeling. Conclusion and clinical relevance These novel findings support a growing body of literature that inflammatory signaling is involved in the {NPC} response to brain injury and identifies novel potential targets that could be exploited to better understand and to optimize this regenerative response.}
+      \field{day}{15}
+      \field{issn}{1862-8354}
+      \field{journaltitle}{{PROTEOMICS} – Clinical Applications}
+      \field{langid}{english}
+      \field{month}{5}
+      \field{number}{9}
+      \field{title}{Upregulation of inflammatory mediators in the ventricular zone after cortical stroke}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{11}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1600092}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1002/prca.201600092
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/prca.201600092
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/prca.201600092
+      \endverb
+      \keyw{Ischemic stroke,Neural precursor cells,Ventricular zone}
+    \endentry
+    \entry{sanchez-arias2016}{article}{}
+      \name{author}{3}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=7f03f47e31527987a71c6005188eef16}{%
+           family={Wicki-Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c8c88c1bfc72191b3970d44e32f50ca}
+      \strng{fullhash}{0c8c88c1bfc72191b3970d44e32f50ca}
+      \strng{bibnamehash}{0c8c88c1bfc72191b3970d44e32f50ca}
+      \strng{authorbibnamehash}{0c8c88c1bfc72191b3970d44e32f50ca}
+      \strng{authornamehash}{0c8c88c1bfc72191b3970d44e32f50ca}
+      \strng{authorfullhash}{0c8c88c1bfc72191b3970d44e32f50ca}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We recently reported that targeted deletion of Pannexin 1 in neural precursor cells of the ventricular zone impairs the maintenance of these cells in healthy and stroke-injured brain. Here we frame this exciting new finding in the context of our previous studies on Pannexin 1 in neural precursors as well as the close relationship between Pannexin 1 and purinergic receptors established by other groups. Moreover, we identify important gaps in our understanding of Pannexin 1 in neural precursor cell biology in terms of the underlying molecular mechanisms and functional/behavioural outcomes.}
+      \field{day}{4}
+      \field{issn}{1673-5374}
+      \field{journaltitle}{Neural Regeneration Research}
+      \field{month}{11}
+      \field{number}{10}
+      \field{shortjournal}{Neural Regen Res}
+      \field{title}{Perspectives on the role of Pannexin 1 in neural precursor cell biology}
+      \field{urlday}{11}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \field{pages}{1540\bibrangedash 1544}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.4103/1673-5374.193221
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5116821/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5116821/
+      \endverb
+    \endentry
+    \entry{swayne2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=8fd43c7464cb5d206fcb27a14dba68dc}{%
+           family={Andrew},
+           familyi={A\bibinitperiod},
+           given={Agbay},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7ac088f5a2f1fa477b2b2c05ba1df510}{%
+           family={Willerth},
+           familyi={W\bibinitperiod},
+           given={Stephanie\bibnamedelima M.},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers}%
+      }
+      \strng{namehash}{f4826ae482b5e8232eeb88886b808a03}
+      \strng{fullhash}{fde95326da1ed699280ab1e3d324cfa3}
+      \strng{bibnamehash}{fde95326da1ed699280ab1e3d324cfa3}
+      \strng{authorbibnamehash}{fde95326da1ed699280ab1e3d324cfa3}
+      \strng{authornamehash}{f4826ae482b5e8232eeb88886b808a03}
+      \strng{authorfullhash}{fde95326da1ed699280ab1e3d324cfa3}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{22}
+      \field{journaltitle}{Frontiers for Young Minds}
+      \field{month}{9}
+      \field{number}{20}
+      \field{title}{What Are Neural Stem Cells, and Why Are They Important?}
+      \field{volume}{4}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{7}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3389/frym.2016.00020
+      \endverb
+      \verb{urlraw}
+      \verb https://kids.frontiersin.org/article/10.3389/frym.2016.00020
+      \endverb
+      \verb{url}
+      \verb https://kids.frontiersin.org/article/10.3389/frym.2016.00020
+      \endverb
+    \endentry
+    \entry{wicki-stordeur2016}{article}{}
+      \name{author}{7}{}{%
+        {{hash=7f03f47e31527987a71c6005188eef16}{%
+           family={Wicki-Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=a8dd333ec49ea44b685be1b2398040d3}{%
+           family={Dhaliwal},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3ce9168e24cec92c3fdc8a52099a1dc0}{%
+           family={Carmona-Wagner},
+           familyi={C\bibinithyphendelim W\bibinitperiod},
+           given={Esther\bibnamedelima O.},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=2e4f0839f1568ea32aa66460437da1a8}{%
+           family={Shestopalov},
+           familyi={S\bibinitperiod},
+           given={Valery\bibnamedelima I.},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=e2798326128b0e5c003e719aa55ca33a}{%
+           family={Lagace},
+           familyi={L\bibinitperiod},
+           given={Diane\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{477013b51af0ffbc27ef8edc4370104b}
+      \strng{fullhash}{bab022fe2b449440e351d9f912bf587e}
+      \strng{bibnamehash}{bab022fe2b449440e351d9f912bf587e}
+      \strng{authorbibnamehash}{bab022fe2b449440e351d9f912bf587e}
+      \strng{authornamehash}{477013b51af0ffbc27ef8edc4370104b}
+      \strng{authorfullhash}{bab022fe2b449440e351d9f912bf587e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{day}{27}
+      \field{journaltitle}{Journal of Neuroscience}
+      \field{month}{1}
+      \field{number}{4}
+      \field{shorttitle}{Pannexin 1 regulates neural precursor cells}
+      \field{title}{Pannexin 1 Differentially Affects Neural Precursor Cell Maintenance in the Ventricular Zone and Peri-Infarct Cortex}
+      \field{volume}{36}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+      \field{pages}{1203\bibrangedash 1210}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.0436-15.2016
+      \endverb
+      \keyw{neural precursor,pannexin,stroke}
+    \endentry
+  \enddatalist
+\endrefsection
+
+\refsection{2}
+  \datalist[entry]{ydnt/global//global/global}
+    \entry{sfn-connectome2021}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=a869627c6eb05807a814a8e208cb8ac9}{%
+           family={Sanchez-Arias},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Juan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ed9318f080aaa074405e4bff853ded65}{%
+           family={Candlish},
+           familyi={C\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d9586a01b8dfdca95737db0063a0ce64}{%
+           family={Slagt},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Virtual}%
+      }
+      \list{publisher}{1}{%
+        {The Society for Neuroscience}%
+      }
+      \strng{namehash}{b6e7662c9bc131d3c131feafd223faa4}
+      \strng{fullhash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \strng{bibnamehash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \strng{authorbibnamehash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \strng{authornamehash}{b6e7662c9bc131d3c131feafd223faa4}
+      \strng{authorfullhash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SfN Global Connectome 2021}
+      \field{day}{12}
+      \field{month}{1}
+      \field{title}{Pannexin 1 regulates dendritic protusion dynamics in developing cortical neurons}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{tri-cluster2020}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=a869627c6eb05807a814a8e208cb8ac9}{%
+           family={Sanchez-Arias},
+           familyi={S\bibinithyphendelim A\bibinitperiod},
+           given={Juan\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=ed9318f080aaa074405e4bff853ded65}{%
+           family={Candlish},
+           familyi={C\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d9586a01b8dfdca95737db0063a0ce64}{%
+           family={Slagt},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Virtual}%
+      }
+      \list{publisher}{4}{%
+        {University of British Columbia Dynamic Brain Circuits in Health}%
+        {Disease, Women;s Health,}%
+        {Biomedical Imaging}%
+        {AI clusters}%
+      }
+      \strng{namehash}{b6e7662c9bc131d3c131feafd223faa4}
+      \strng{fullhash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \strng{bibnamehash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \strng{authorbibnamehash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \strng{authornamehash}{b6e7662c9bc131d3c131feafd223faa4}
+      \strng{authorfullhash}{fa9b8bfb9d519ca7320cadcc452195e8}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The 2nd Annual Tri-Cluster Research Day}
+      \field{day}{4}
+      \field{month}{11}
+      \field{title}{Pannexin 1 regulates dendritic protusion dynamics in developing cortical neurons}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{can2019}{misc}{}
+      \name{author}{7}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=cb5897ebeed486d1b3475ac0620918e2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mei.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a810d67db8ff69fa4b18b64ecee819fe}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Catherine\bibnamedelima S.W.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=882be1d5cb16cacd3146c23a98c8942b}{%
+           family={Ebert},
+           familyi={E\bibinitperiod},
+           given={Sarah\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=86eae437d0c817949dd5bf655c2f50de}{%
+           family={DeLucas-Rius},
+           familyi={D\bibinithyphendelim R\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7e72e279fa6d2af423eff89021abe53a}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Craig\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Toronto, ON. Canada}%
+      }
+      \list{publisher}{1}{%
+        {Canadian Association for Neuroscience}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{ae4ccc37fee2d54f413a36378c76e530}
+      \strng{bibnamehash}{ae4ccc37fee2d54f413a36378c76e530}
+      \strng{authorbibnamehash}{ae4ccc37fee2d54f413a36378c76e530}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{ae4ccc37fee2d54f413a36378c76e530}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Canadian Association for Neuroscience Meeting}
+      \field{day}{22}
+      \field{endday}{25}
+      \field{endmonth}{5}
+      \field{endyear}{2019}
+      \field{month}{5}
+      \field{title}{Pannexin 1 regulates network ensembles and dendritic spine development in cortical somatosensory neurons}
+      \field{year}{2019}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{igcj2019}{misc}{}
+      \name{author}{7}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=cb5897ebeed486d1b3475ac0620918e2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mei.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a810d67db8ff69fa4b18b64ecee819fe}{%
+           family={Choi},
+           familyi={C\bibinitperiod},
+           given={Catherine\bibnamedelima S.W.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=882be1d5cb16cacd3146c23a98c8942b}{%
+           family={Ebert},
+           familyi={E\bibinitperiod},
+           given={Sarah\bibnamedelima N.},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+        {{hash=86eae437d0c817949dd5bf655c2f50de}{%
+           family={DeLucas-Rius},
+           familyi={D\bibinithyphendelim R\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod}}}%
+        {{hash=7e72e279fa6d2af423eff89021abe53a}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Craig\bibnamedelima E.},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Victoria, BC. Canada}%
+      }
+      \list{publisher}{1}{%
+        {International Gap Junction Conference}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{ae4ccc37fee2d54f413a36378c76e530}
+      \strng{bibnamehash}{ae4ccc37fee2d54f413a36378c76e530}
+      \strng{authorbibnamehash}{ae4ccc37fee2d54f413a36378c76e530}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{ae4ccc37fee2d54f413a36378c76e530}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{International Gap Junction Conference}
+      \field{day}{27}
+      \field{endday}{31}
+      \field{endmonth}{7}
+      \field{endyear}{2019}
+      \field{month}{7}
+      \field{title}{Pannexin 1 regulates neuronal networks and dendritic spine formation in cortical neurons}
+      \field{year}{2019}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{bcregmed2018}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=3fb1e76f5a06509d24e7487d9e181dc9}{%
+           family={Shetsova},
+           familyi={S\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=cb5897ebeed486d1b3475ac0620918e2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=edbbf21aa6ce759e34cdc4e2cec5ac64}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={Weaver\bibnamedelima Maria},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC. Canada}%
+      }
+      \list{publisher}{1}{%
+        {BC Regenerative Medicine Network}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \strng{bibnamehash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \strng{authorbibnamehash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{BC Regenerative Medicine Symposiun}
+      \field{day}{9}
+      \field{month}{5}
+      \field{title}{Pannexin 1: a novel regulator of dendritic spine development in the postnatal cerebral cortex}
+      \field{year}{2018}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{can2018}{misc}{}
+      \name{author}{5}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=3fb1e76f5a06509d24e7487d9e181dc9}{%
+           family={Shetsova},
+           familyi={S\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=cb5897ebeed486d1b3475ac0620918e2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=edbbf21aa6ce759e34cdc4e2cec5ac64}{%
+           family={S.},
+           familyi={S\bibinitperiod},
+           given={Weaver\bibnamedelima Maria},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC. Canada}%
+      }
+      \list{publisher}{1}{%
+        {Canadian Association for Neuroscience}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \strng{bibnamehash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \strng{authorbibnamehash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{962b6985473f0abd6286ae83bcfaf0d1}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Canadian Association for Neuroscience Meeting}
+      \field{day}{13}
+      \field{endday}{16}
+      \field{endmonth}{5}
+      \field{endyear}{2018}
+      \field{month}{5}
+      \field{title}{Pannexin 1: a novel regulator of dendritic spine development in the postnatal cerebral cortex}
+      \field{year}{2018}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{sfn2018}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=3fb1e76f5a06509d24e7487d9e181dc9}{%
+           family={Shetsova},
+           familyi={S\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=cb5897ebeed486d1b3475ac0620918e2}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Mei},
+           giveni={M\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego, CA. USA}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{78a9359a24cee668255c837b54bdf073}
+      \strng{bibnamehash}{78a9359a24cee668255c837b54bdf073}
+      \strng{authorbibnamehash}{78a9359a24cee668255c837b54bdf073}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{78a9359a24cee668255c837b54bdf073}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Society for Neuroscience Meeting}
+      \field{day}{3}
+      \field{endday}{7}
+      \field{endmonth}{11}
+      \field{endyear}{2018}
+      \field{month}{11}
+      \field{title}{Pannexin 1 regulates somatosensory pyramidal neuron dendritic spine density and sensorimotor function}
+      \field{year}{2018}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{bcregmed2017}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=31e5348242f8e01aa968f5bc9c6fc774}{%
+           family={E.},
+           familyi={E\bibinitperiod},
+           given={Wicki-Stordeur\bibnamedelima Leigh},
+           giveni={W\bibinithyphendelim S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC. Canada}%
+      }
+      \list{publisher}{1}{%
+        {BC Regenerative Medicine Network}%
+      }
+      \strng{namehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{fullhash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{bibnamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authorbibnamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authornamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authorfullhash}{08bd6da65a8993e0a6c436ea26442953}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{BC Regenerative Medicine Symposiun}
+      \field{day}{10}
+      \field{month}{5}
+      \field{title}{A novel negative regulator of neurite development in the cerebral cortex}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{candevbio2016}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=31e5348242f8e01aa968f5bc9c6fc774}{%
+           family={E.},
+           familyi={E\bibinitperiod},
+           given={Wicki-Stordeur\bibnamedelima Leigh},
+           giveni={W\bibinithyphendelim S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=42c0cb594b4bd52e48ea5bb8702814f9}{%
+           family={O.},
+           familyi={O\bibinitperiod},
+           given={Carmona-Wagner\bibnamedelima Esther},
+           giveni={C\bibinithyphendelim W\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Banff, AB. Canada}%
+      }
+      \list{publisher}{1}{%
+        {Canadian Developmental Biology Association}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{d68d5025bad1b115bdf65fd7a0492dbf}
+      \strng{bibnamehash}{d68d5025bad1b115bdf65fd7a0492dbf}
+      \strng{authorbibnamehash}{d68d5025bad1b115bdf65fd7a0492dbf}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{d68d5025bad1b115bdf65fd7a0492dbf}
+      \field{extraname}{6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Canadian Developmental Biology Conference – Satellite Symposium on Forebrain Neurogenesis: From Embryo to Adult}
+      \field{day}{16}
+      \field{endday}{17}
+      \field{endmonth}{3}
+      \field{endyear}{2016}
+      \field{month}{3}
+      \field{title}{A pannexin 1 blocker modulates the development of dendritic spines in the postnatal cerebral cortex}
+      \field{year}{2016}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{uva2016}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=31e5348242f8e01aa968f5bc9c6fc774}{%
+           family={E.},
+           familyi={E\bibinitperiod},
+           given={Wicki-Stordeur\bibnamedelima Leigh},
+           giveni={W\bibinithyphendelim S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Charlottesville, VA. USA}%
+      }
+      \list{publisher}{1}{%
+        {University of Virginia Pannexin Cluster}%
+      }
+      \strng{namehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{fullhash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{bibnamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authorbibnamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authornamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authorfullhash}{08bd6da65a8993e0a6c436ea26442953}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Inaugural University of Virginia Pannexin Conference}
+      \field{day}{27}
+      \field{month}{10}
+      \field{title}{A pannexin 1 blocker modulates the development of dendritic spines in the postnatal cerebral cortex}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+    \entry{sfn2016}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=31e5348242f8e01aa968f5bc9c6fc774}{%
+           family={E.},
+           familyi={E\bibinitperiod},
+           given={Wicki-Stordeur\bibnamedelima Leigh},
+           giveni={W\bibinithyphendelim S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Diego, CA. USA}%
+      }
+      \strng{namehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{fullhash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{bibnamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authorbibnamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authornamehash}{08bd6da65a8993e0a6c436ea26442953}
+      \strng{authorfullhash}{08bd6da65a8993e0a6c436ea26442953}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Society for Neuroscience Meeting}
+      \field{day}{12}
+      \field{endday}{16}
+      \field{endmonth}{11}
+      \field{endyear}{2016}
+      \field{month}{11}
+      \field{title}{A pannexin 1 blocker modulates the development of dendritic spines in the postnatal cerebral cortex}
+      \field{year}{2016}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
