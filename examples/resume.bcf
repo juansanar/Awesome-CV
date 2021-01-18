@@ -2344,50 +2344,6 @@
   </bcf:bibdata>
   <bcf:section number="0">
   </bcf:section>
-  <!-- SECTION 1 -->
-  <bcf:bibdata section="1">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="1">
-    <bcf:citekey order="1" nocite="1">swayne2016</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">wicki-stordeur2016</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">sanchez-arias2016</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">gunton2017</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">xu2018</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">epp2019</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">sanchez-arias2019</bcf:citekey>
-    <bcf:citekey order="8" nocite="1">choi2019</bcf:citekey>
-    <bcf:citekey order="9" nocite="1">frederiksen2019</bcf:citekey>
-    <bcf:citekey order="10" nocite="1">chen2019</bcf:citekey>
-    <bcf:citekey order="11" nocite="1">swayne2020</bcf:citekey>
-    <bcf:citekey order="12" nocite="1">sanchez-arias2020a</bcf:citekey>
-    <bcf:citekey order="13" nocite="1">sanchez-arias2020b</bcf:citekey>
-    <bcf:citekey order="14" nocite="1">boyce2020</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
-  <!-- SECTION 2 -->
-  <bcf:bibdata section="2">
-    <bcf:datasource type="file" datatype="bibtex" glob="false">references.bib</bcf:datasource>
-  </bcf:bibdata>
-  <bcf:section number="2">
-    <bcf:citekey order="1" nocite="1">can2015</bcf:citekey>
-    <bcf:citekey order="2" nocite="1">candevbio2016</bcf:citekey>
-    <bcf:citekey order="3" nocite="1">uva2016</bcf:citekey>
-    <bcf:citekey order="4" nocite="1">sfn2016</bcf:citekey>
-    <bcf:citekey order="5" nocite="1">bcregmed2017</bcf:citekey>
-    <bcf:citekey order="6" nocite="1">bcregmed2018</bcf:citekey>
-    <bcf:citekey order="7" nocite="1">can2018</bcf:citekey>
-    <bcf:citekey order="8" nocite="1">sfn2018</bcf:citekey>
-    <bcf:citekey order="9" nocite="1">can2019</bcf:citekey>
-    <bcf:citekey order="10" nocite="1">igcj2019</bcf:citekey>
-    <bcf:citekey order="11" nocite="1">tri-cluster2020</bcf:citekey>
-    <bcf:citekey order="12" nocite="1">sfn-connectome2021</bcf:citekey>
-  </bcf:section>
-  <!-- SECTION 0 (cont.) -->
-  <bcf:section number="0">
-  </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ydnt">
     <bcf:sort order="1">
@@ -2415,22 +2371,4 @@
     </bcf:sort>
   </bcf:sortingtemplate>
   <!-- DATALISTS -->
-  <bcf:datalist section="1"
-                name="ydnt/global//global/global"
-                type="entry"
-                sortingtemplatename="ydnt"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
-  <bcf:datalist section="2"
-                name="ydnt/global//global/global"
-                type="entry"
-                sortingtemplatename="ydnt"
-                sortingnamekeytemplatename="global"
-                labelprefix=""
-                uniquenametemplatename="global"
-                labelalphanametemplatename="global">
-  </bcf:datalist>
 </bcf:controlfile>
