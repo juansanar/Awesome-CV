@@ -33,11 +33,9 @@
            giveni={E\bibinitperiod},
            prefix={van\bibnamedelima der},
            prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-        {{hash=a869627c6eb05807a814a8e208cb8ac9}{%
-           family={{Sanchez-Arias}},
-           familyi={S\bibinitperiod},
-           given={Juan\bibnamedelima C.},
-           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
+           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
+           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
         {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
            family={Swayne},
            familyi={S\bibinitperiod},
@@ -51,11 +49,11 @@
         {Cold Spring Harbor Laboratory}%
       }
       \strng{namehash}{8a1120f96f1ed77464a1586d3cde6ba1}
-      \strng{fullhash}{ea3e1c2155bdd1824712dc5b032641bb}
-      \strng{bibnamehash}{ea3e1c2155bdd1824712dc5b032641bb}
-      \strng{authorbibnamehash}{ea3e1c2155bdd1824712dc5b032641bb}
+      \strng{fullhash}{b56ef5673f832a5f52313fbbafba9b25}
+      \strng{bibnamehash}{b56ef5673f832a5f52313fbbafba9b25}
+      \strng{authorbibnamehash}{b56ef5673f832a5f52313fbbafba9b25}
       \strng{authornamehash}{8a1120f96f1ed77464a1586d3cde6ba1}
-      \strng{authorfullhash}{ea3e1c2155bdd1824712dc5b032641bb}
+      \strng{authorfullhash}{b56ef5673f832a5f52313fbbafba9b25}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -184,6 +182,9 @@
       }
       \list{language}{1}{%
         {en}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
       }
       \strng{namehash}{478e55a7da197a9e880c466f2c80a3f5}
       \strng{fullhash}{bda3213a6c6fd2ecdb89c64ded934815}
@@ -592,6 +593,9 @@
            familyi={S\bibinitperiod},
            given={Leigh\bibnamedelima Anne},
            giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Society for Neuroscience}%
       }
       \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
       \strng{fullhash}{f6bb387f732e7bef22156f97d0c44ab0}
