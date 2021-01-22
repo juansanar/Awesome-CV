@@ -1508,6 +1508,86 @@
       \field{dateera}{ce}
       \true{nocite}
     \endentry
+    \entry{can2015}{misc}{}
+      \name{author}{10}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=7f03f47e31527987a71c6005188eef16}{%
+           family={Wicki-Stordeur},
+           familyi={W\bibinithyphendelim S\bibinitperiod},
+           given={Leigh\bibnamedelima E.},
+           giveni={L\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=3ce9168e24cec92c3fdc8a52099a1dc0}{%
+           family={Carmona-Wagner},
+           familyi={C\bibinithyphendelim W\bibinitperiod},
+           given={Esther\bibnamedelima O.},
+           giveni={E\bibinitperiod\bibinitdelim O\bibinitperiod}}}%
+        {{hash=664a0cf1f386c2d212e5769e4afae1e8}{%
+           family={Gunton},
+           familyi={G\bibinitperiod},
+           given={Adrianna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a421ec26dd170190de3278380ba0ce1d}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Michelle},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a4cb4edbffe29354846f8da7fcbd48bc}{%
+           family={Boyce},
+           familyi={B\bibinitperiod},
+           given={Andrew\bibnamedelima K.J.},
+           giveni={A\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=a8dd333ec49ea44b685be1b2398040d3}{%
+           family={Dhaliwal},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2e4f0839f1568ea32aa66460437da1a8}{%
+           family={Shestopalov},
+           familyi={S\bibinitperiod},
+           given={Valery\bibnamedelima I.},
+           giveni={V\bibinitperiod\bibinitdelim I\bibinitperiod}}}%
+        {{hash=e2798326128b0e5c003e719aa55ca33a}{%
+           family={Lagace},
+           familyi={L\bibinitperiod},
+           given={Diane\bibnamedelima C.},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vancouver, BC. Canada}%
+      }
+      \list{publisher}{1}{%
+        {Canadian Association for Neuroscience}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{ad0ca0a6a604bc4ceb0193b69fcf8d2b}
+      \strng{bibnamehash}{ad0ca0a6a604bc4ceb0193b69fcf8d2b}
+      \strng{authorbibnamehash}{ad0ca0a6a604bc4ceb0193b69fcf8d2b}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{ad0ca0a6a604bc4ceb0193b69fcf8d2b}
+      \field{extraname}{7}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Canadian Association for Neuroscience Meeting}
+      \field{day}{24}
+      \field{endday}{27}
+      \field{endmonth}{5}
+      \field{endyear}{2015}
+      \field{month}{5}
+      \field{title}{Investigation of Pannexin 1 in the response of developing neurons to stroke}
+      \field{year}{2015}
+      \field{enddateera}{ce}
+      \field{dateera}{ce}
+      \true{nocite}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput
