@@ -19,6 +19,94 @@
 
 \refsection{1}
   \datalist[entry]{ydnt/global//global/global}
+    \entry{sanchez-arias2021}{article}{}
+      \name{author}{10}{}{%
+        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
+           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
+           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=d9586a01b8dfdca95737db0063a0ce64}{%
+           family={Slagt},
+           familyi={S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=857646eda7b6630dfad7e804d29a5506}{%
+           family={Vecchiarelli},
+           familyi={V\bibinitperiod},
+           given={Haley\bibnamedelima A.},
+           giveni={H\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ed9318f080aaa074405e4bff853ded65}{%
+           family={Candlish},
+           familyi={C\bibinitperiod},
+           given={Rebecca\bibnamedelima C.},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=c6cbd51161983deae88fbab33da27d32}{%
+           family={York},
+           familyi={Y\bibinitperiod},
+           given={Nicole},
+           giveni={N\bibinitperiod}}}%
+        {{hash=1bdb546c243bda673cdd8127d3ce0c79}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Penelope\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=a3ccc8111dfcc99c2fb51fccfa7c66b1}{%
+           family={Shevtsova},
+           familyi={S\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=424ae1d3ff547de6a13a4b397e85b698}{%
+           family={Juma},
+           familyi={J\bibinitperiod},
+           given={Afnan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=19dda80f4b279ef6d194ce522c7b2988}{%
+           family={Tremblay},
+           familyi={T\bibinitperiod},
+           given={Marie-Ève},
+           giveni={M\bibinithyphendelim È\bibinitperiod}}}%
+        {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
+           family={Swayne},
+           familyi={S\bibinitperiod},
+           given={Leigh\bibnamedelima Anne},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {en}%
+      }
+      \strng{namehash}{478e55a7da197a9e880c466f2c80a3f5}
+      \strng{fullhash}{40009eb120b1ae22a9420fba215b7d2c}
+      \strng{bibnamehash}{40009eb120b1ae22a9420fba215b7d2c}
+      \strng{authorbibnamehash}{40009eb120b1ae22a9420fba215b7d2c}
+      \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
+      \strng{authorfullhash}{40009eb120b1ae22a9420fba215b7d2c}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Purinergic signaling encompasses the cycle of adenosine 5′ triphosphate (ATP) release and its metabolism into nucleotide and nucleoside derivatives, the direct release of nucleosides, and subsequent receptor-triggered downstream intracellular pathways. Since the discovery of nerve terminal and glial ATP release into the neuropil, purinergic signaling has been implicated in the modulation of nervous system development, function, and disease. In this review, we detail our current understanding of the roles of the pannexin 1 (PANX1) ATP-release channel in neuronal development and plasticity, glial signaling, and neuron-glial-immune interactions. We additionally provide an overview of PANX1 structure, activation, and permeability to orientate readers and highlight recent research developments. We identify areas of convergence between PANX1 and purinergic receptor actions. Additional highlights include data on PANX1's participation in the pathophysiology of nervous system developmental, degenerative, and inflammatory disorders. Our aim in combining this knowledge is to facilitate the movement of our current understanding of PANX1 in the context of other nervous system purinergic signaling mechanisms one step closer to clinical translation.}
+      \field{issn}{0163-7258}
+      \field{journaltitle}{Pharmacology \& Therapeutics}
+      \field{month}{3}
+      \field{shorttitle}{Purinergic signaling in nervous system health and disease}
+      \field{title}{Purinergic signaling in nervous system health and disease: {Focus} on pannexin 1}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{107840}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.pharmthera.2021.107840
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0163725821000425
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0163725821000425
+      \endverb
+      \keyw{Nervous system,Neurodevelopment,Neurological diseases,Nucleotides,Pannexin,Purinergic signaling}
+    \endentry
     \entry{boyce2020}{article}{}
       \name{author}{4}{}{%
         {{hash=a4cb4edbffe29354846f8da7fcbd48bc}{%
@@ -110,7 +198,7 @@
       \strng{authorbibnamehash}{865ac8a0ff31f6b07071252fbb656028}
       \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
       \strng{authorfullhash}{865ac8a0ff31f6b07071252fbb656028}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -192,7 +280,7 @@
       \strng{authorbibnamehash}{bda3213a6c6fd2ecdb89c64ded934815}
       \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
       \strng{authorfullhash}{bda3213a6c6fd2ecdb89c64ded934815}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
