@@ -1081,7 +1081,7 @@
       \field{booktitle}{SfN Global Connectome 2021}
       \field{day}{12}
       \field{month}{1}
-      \field{title}{Pannexin 1 regulates dendritic protusion dynamics in developing cortical neurons}
+      \field{title}{Pannexin 1 regulates dendritic protrusion dynamics in developing cortical neurons}
       \field{year}{2021}
       \field{dateera}{ce}
       \true{nocite}
@@ -1134,7 +1134,7 @@
       \field{booktitle}{The 2nd Annual Tri-Cluster Research Day}
       \field{day}{4}
       \field{month}{11}
-      \field{title}{Pannexin 1 regulates dendritic protusion dynamics in developing cortical neurons}
+      \field{title}{Pannexin 1 regulates dendritic protrusion dynamics in developing cortical neurons}
       \field{year}{2020}
       \field{dateera}{ce}
       \true{nocite}
@@ -1312,7 +1312,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{BC Regenerative Medicine Symposiun}
+      \field{booktitle}{BC Regenerative Medicine Symposium}
       \field{day}{9}
       \field{month}{5}
       \field{title}{Pannexin 1: a novel regulator of dendritic spine development in the postnatal cerebral cortex}
@@ -1410,7 +1410,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Society for Neuroscience Meeting}
+      \field{booktitle}{The Society for Neuroscience Meeting}
       \field{day}{3}
       \field{endday}{7}
       \field{endmonth}{11}
@@ -1584,7 +1584,7 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{booktitle}{Society for Neuroscience Meeting}
+      \field{booktitle}{The Society for Neuroscience Meeting}
       \field{day}{12}
       \field{endday}{16}
       \field{endmonth}{11}
