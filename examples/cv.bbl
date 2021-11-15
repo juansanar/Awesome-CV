@@ -19,11 +19,92 @@
 
 \refsection{1}
   \datalist[entry]{ydnt/global//global/global}
-    \entry{sanchez-arias2021}{article}{}
+    \entry{sanchez-arias2021b}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
       \name{author}{10}{}{%
-        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
-           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
-           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
+        {{hash=9dc1407f06a6450cc7ffbd35428554e0}{%
+           family={Carrier},
+           familyi={C\bibinitperiod},
+           given={Micael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=28b760c6c89a4e1d267a57d8743399dc}{%
+           family={Frederiksen},
+           familyi={F\bibinitperiod},
+           given={Simona\bibnamedelima D.},
+           giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=a3ccc8111dfcc99c2fb51fccfa7c66b1}{%
+           family={Shevtsova},
+           familyi={S\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod}}}%
+        {{hash=90fa93e6049ce0ea1b0851ac8deb5db5}{%
+           family={Mckee},
+           familyi={M\bibinitperiod},
+           given={Chloe},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b7bd8c913668801537fce4c25916d0f3}{%
+           family={Nguyen},
+           familyi={N\bibinitperiod},
+           given={Hai\bibnamedelima Lam},
+           giveni={H\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=815273a990a3c07f1600f4f5fa108b5b}{%
+           family={Gonçalves\bibnamedelimb De\bibnamedelima Andrade},
+           familyi={G\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod}}}%
+        {{hash=1bdb546c243bda673cdd8127d3ce0c79}{%
+           family={Young},
+           familyi={Y\bibinitperiod},
+           given={Penelope\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=550bda627426d30af8e27ae631da1657}{%
+           family={Van\bibnamedelimb Der\bibnamedelima Slagt},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Emma},
+           giveni={E\bibinitperiod}}}%
+        {{hash=19dda80f4b279ef6d194ce522c7b2988}{%
+           family={Tremblay},
+           familyi={T\bibinitperiod},
+           given={Marie-Ève},
+           giveni={M\bibinithyphendelim È\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Frontiers in Neuroanatomy}%
+      }
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{f73506e0c0f8340e28215526b77d9dfc}
+      \strng{bibnamehash}{f73506e0c0f8340e28215526b77d9dfc}
+      \strng{authorbibnamehash}{f73506e0c0f8340e28215526b77d9dfc}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{f73506e0c0f8340e28215526b77d9dfc}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Neuroanatomy}
+      \field{month}{10}
+      \field{title}{A systematic, open-science framework for quantification of cell-types in mouse brain sections using fluorescence microscopy}
+      \field{year}{2021}
+      \true{nocite}
+      \field{pages}{95}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.frontiersin.org/articles/10.3389/fnana.2021.722443/abstract
+      \endverb
+      \verb{url}
+      \verb https://www.frontiersin.org/articles/10.3389/fnana.2021.722443/abstract
+      \endverb
+    \endentry
+    \entry{sanchez-arias2021a}{article}{}
+      \name{author}{10}{}{%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
         {{hash=d9586a01b8dfdca95737db0063a0ce64}{%
            family={Slagt},
            familyi={S\bibinitperiod},
@@ -75,13 +156,13 @@
       \list{language}{1}{%
         {en}%
       }
-      \strng{namehash}{478e55a7da197a9e880c466f2c80a3f5}
-      \strng{fullhash}{40009eb120b1ae22a9420fba215b7d2c}
-      \strng{bibnamehash}{40009eb120b1ae22a9420fba215b7d2c}
-      \strng{authorbibnamehash}{40009eb120b1ae22a9420fba215b7d2c}
-      \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
-      \strng{authorfullhash}{40009eb120b1ae22a9420fba215b7d2c}
-      \field{extraname}{1}
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{37ab69ea9206790ed1081171a0c2b4d3}
+      \strng{bibnamehash}{37ab69ea9206790ed1081171a0c2b4d3}
+      \strng{authorbibnamehash}{37ab69ea9206790ed1081171a0c2b4d3}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{37ab69ea9206790ed1081171a0c2b4d3}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -121,9 +202,9 @@
            giveni={E\bibinitperiod},
            prefix={van\bibnamedelima der},
            prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
-        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
-           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
-           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
         {{hash=6e66cb6f5b6cc51c30d312be1e99f0b1}{%
            family={Swayne},
            familyi={S\bibinitperiod},
@@ -137,11 +218,11 @@
         {Cold Spring Harbor Laboratory}%
       }
       \strng{namehash}{8a1120f96f1ed77464a1586d3cde6ba1}
-      \strng{fullhash}{b56ef5673f832a5f52313fbbafba9b25}
-      \strng{bibnamehash}{b56ef5673f832a5f52313fbbafba9b25}
-      \strng{authorbibnamehash}{b56ef5673f832a5f52313fbbafba9b25}
+      \strng{fullhash}{47d052b99a76f601993aa88ace147bad}
+      \strng{bibnamehash}{47d052b99a76f601993aa88ace147bad}
+      \strng{authorbibnamehash}{47d052b99a76f601993aa88ace147bad}
       \strng{authornamehash}{8a1120f96f1ed77464a1586d3cde6ba1}
-      \strng{authorfullhash}{b56ef5673f832a5f52313fbbafba9b25}
+      \strng{authorfullhash}{47d052b99a76f601993aa88ace147bad}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -168,9 +249,9 @@
     \endentry
     \entry{sanchez-arias2020a}{article}{}
       \name{author}{4}{}{%
-        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
-           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
-           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
         {{hash=ed9318f080aaa074405e4bff853ded65}{%
            family={Candlish},
            familyi={C\bibinitperiod},
@@ -192,13 +273,13 @@
       \list{publisher}{1}{%
         {Society for Neuroscience}%
       }
-      \strng{namehash}{478e55a7da197a9e880c466f2c80a3f5}
-      \strng{fullhash}{865ac8a0ff31f6b07071252fbb656028}
-      \strng{bibnamehash}{865ac8a0ff31f6b07071252fbb656028}
-      \strng{authorbibnamehash}{865ac8a0ff31f6b07071252fbb656028}
-      \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
-      \strng{authorfullhash}{865ac8a0ff31f6b07071252fbb656028}
-      \field{extraname}{2}
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{aa0100717491262eff1e0fdd28495b2d}
+      \strng{bibnamehash}{aa0100717491262eff1e0fdd28495b2d}
+      \strng{authorbibnamehash}{aa0100717491262eff1e0fdd28495b2d}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{aa0100717491262eff1e0fdd28495b2d}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -227,9 +308,9 @@
     \endentry
     \entry{sanchez-arias2020b}{article}{}
       \name{author}{8}{}{%
-        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
-           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
-           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
         {{hash=7f03f47e31527987a71c6005188eef16}{%
            family={Wicki-Stordeur},
            familyi={W\bibinithyphendelim S\bibinitperiod},
@@ -274,13 +355,13 @@
       \list{publisher}{1}{%
         {Elsevier}%
       }
-      \strng{namehash}{478e55a7da197a9e880c466f2c80a3f5}
-      \strng{fullhash}{bda3213a6c6fd2ecdb89c64ded934815}
-      \strng{bibnamehash}{bda3213a6c6fd2ecdb89c64ded934815}
-      \strng{authorbibnamehash}{bda3213a6c6fd2ecdb89c64ded934815}
-      \strng{authornamehash}{478e55a7da197a9e880c466f2c80a3f5}
-      \strng{authorfullhash}{bda3213a6c6fd2ecdb89c64ded934815}
-      \field{extraname}{3}
+      \strng{namehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{fullhash}{902be190bbd96158c3195ea3fb56da8d}
+      \strng{bibnamehash}{902be190bbd96158c3195ea3fb56da8d}
+      \strng{authorbibnamehash}{902be190bbd96158c3195ea3fb56da8d}
+      \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
+      \strng{authorfullhash}{902be190bbd96158c3195ea3fb56da8d}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
@@ -325,9 +406,9 @@
            familyi={N\bibinitperiod},
            given={Chen\bibnamedelima Seng},
            giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=301f81057acc1aa43868e0e0d0bcb8c6}{%
-           family={\textbf{Sanchez-Arias,\bibnamedelimb Juan\bibnamedelimb C.}},
-           familyi={S\bibinithyphendelim A\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=96425cfb6de1e47d0818b519843482e6}{%
+           family={\textbf{Juan\bibnamedelimb C.\bibnamedelimi Sanchez-Arias}},
+           familyi={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim A\bibinitperiod}}}%
         {{hash=7d490b2d07c53aca7d3f82f3289534e7}{%
            family={Good},
            familyi={G\bibinitperiod},
@@ -368,11 +449,11 @@
         {American Physiological Society}%
       }
       \strng{namehash}{f4826ae482b5e8232eeb88886b808a03}
-      \strng{fullhash}{377b0012d0e7ff69d99438cdd7a29400}
-      \strng{bibnamehash}{377b0012d0e7ff69d99438cdd7a29400}
-      \strng{authorbibnamehash}{377b0012d0e7ff69d99438cdd7a29400}
+      \strng{fullhash}{573261108f6365b4c9e1b26ebbbe1528}
+      \strng{bibnamehash}{573261108f6365b4c9e1b26ebbbe1528}
+      \strng{authorbibnamehash}{573261108f6365b4c9e1b26ebbbe1528}
       \strng{authornamehash}{f4826ae482b5e8232eeb88886b808a03}
-      \strng{authorfullhash}{377b0012d0e7ff69d99438cdd7a29400}
+      \strng{authorfullhash}{573261108f6365b4c9e1b26ebbbe1528}
       \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
@@ -691,6 +772,7 @@
       \strng{authorbibnamehash}{f6bb387f732e7bef22156f97d0c44ab0}
       \strng{authornamehash}{e4f5778a967bbbc99c2b63b1da3f91e0}
       \strng{authorfullhash}{f6bb387f732e7bef22156f97d0c44ab0}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
